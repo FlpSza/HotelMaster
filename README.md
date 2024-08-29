@@ -1,5 +1,4 @@
 # HotelMaster
-www.dio.me
 
 ## Contexto
 Você foi contratado para construir um sistema de hospedagem, que será usado para realizar uma reserva em um hotel. Você precisará usar a classe Pessoa, que representa o hóspede, a classe Suíte, e a classe Reserva, que fará um relacionamento entre ambos.
@@ -17,3 +16,5 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 
 ## Desafio de projeto
 Para este desafio, precisei usar meus conhecimentos adquiridos no módulo de explorando a linguagem C#, da trilha .NET da DIO.
+
+www.dio.me
